@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* 🟢 ບັງຄັບປ່ຽນ Font ທັງເວັບ ໂດຍການລະບຸແທັກຕົວໜັງສື (ປອດໄພ 100% Icon ບໍ່ເພ້) */
+html, body, p, h1, h2, h3, h4, h5, h6, a, span, button, input, select, textarea, label, table {
+  font-family: 'Noto Sans Lao', sans-serif !important;
+}
+
